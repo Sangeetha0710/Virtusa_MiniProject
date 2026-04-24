@@ -1,5 +1,6 @@
 # FareCalc - CityCab Ride Estimator
-rates = {            #Rate Dictionary
+#Rate Dictionary
+rates = {           
     "Economy": 10,                      
     "Premium": 18,
     "SUV": 25
